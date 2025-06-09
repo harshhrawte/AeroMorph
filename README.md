@@ -1,2 +1,2 @@
 # AeroMorph
-the satellite
+the satellit
