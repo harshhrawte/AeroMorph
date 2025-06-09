@@ -1,2 +1,2 @@
 # AeroMorph
-te satel
+te sate
